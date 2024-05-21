@@ -1,0 +1,30 @@
+body{
+    background-color: black;
+    text-align: center;
+    font-family: "Poetsen One", sans-serif;
+}
+#b{
+    border:10px solid gold;
+    width: 200px;
+}
+#c{
+    color:aquamarine;
+}
+#a{
+    color:aqua;
+    text-align: center;
+    text-transform: uppercase;
+}
+#f{
+    color:yellow;
+}
+#v{
+   
+    background-color:aqua;
+    text-transform: uppercase;
+    font-family: "Poetsen One", sans-serif;
+    text-align: center;
+}
+.j{
+    color:antiquewhite;
+}
